@@ -1,7 +1,5 @@
 # 🗺️ Mapty App
 
----
-
 This is a geo-based workout tracker app built during the [**"The Complete JavaScript Course 2025: From Zero to Expert!"**](https://www.udemy.com/the-complete-javascript-course/?couponCode=C3GITHUB10) by **Jonas Schmedtmann**.
 
 It allows users to **log running and cycling workouts** directly on a map using the **Leaflet.js** library and the browser's **Geolocation API**.
@@ -9,8 +7,6 @@ It allows users to **log running and cycling workouts** directly on a map using 
 ---
 
 ## 🚀 How to Use
-
----
 
 1. **Click this** [**Mapty**](https://darkoray.github.io/Mapty/).
 2. **Allow location access** when prompted — this centers the map on your current position.
@@ -37,9 +33,7 @@ app.reset();
 
 ## ✅ Features
 
----
-
-- 📍 Log workouts with **location, distance, duration, and cadence/elevation**
+- Log workouts with **location, distance, duration, and cadence/elevation**
 - 🏃 Choose between **Running** or **Cycling**
 - 🗺️ Display all workouts on an interactive **Leaflet map**
 - 📝 View detailed workout stats in a **list UI**
@@ -51,8 +45,6 @@ app.reset();
 ---
 
 ## 🛠️ Technologies Used
-
----
 
 - **HTML5**
 - **CSS3**
@@ -71,8 +63,6 @@ app.reset();
 ---
 
 ## 📄 License & Credits
-
----
 
 This project is part of a course and provided for **learning purposes only**.
 
