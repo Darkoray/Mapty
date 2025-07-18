@@ -12,7 +12,7 @@ It allows users to **log running and cycling workouts** directly on a map using 
 
 ---
 
-1. **Open** the `index.html` file in your browser.
+1. **Click this** [**Mapty**](https://darkoray.github.io/Mapty/).
 2. **Allow location access** when prompted — this centers the map on your current position.
 3. **Click on the map** where you want to log a workout.
 4. **Fill in the form** (type, distance, duration, and cadence/elevation depending on type).
