@@ -68,7 +68,7 @@ const inputElevation = document.querySelector('.form__input--elevation');
 
 class App {
   #map;
-  #mapZoomLevel = 13;
+  #mapZoomLevel = 15;
   #mapEvent;
   #workouts = [];
 
@@ -79,7 +79,7 @@ class App {
     //  Get data from localStorage
     this.#getLocalStorage();
 
-    // Attachh event handles
+    // Attach event handles
     form.addEventListener('submit', this.#newWorkout.bind(this));
     inputType.addEventListener('change', this.#toggleElevationField.bind(this));
     containerWorkouts.addEventListener('click', this.#moveToPopup.bind(this));
